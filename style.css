@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(199, 247, 231);;
+}
+
+header, main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+button{
+    width: 80px;
+}
